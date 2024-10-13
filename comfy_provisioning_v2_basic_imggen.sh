@@ -85,6 +85,7 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
     #"https://huggingface.co/wangfuyun/AnimateLCM/resolve/ade023806569460d84d5b77cfc2706c4206ca2b5/sd15_lora_beta.safetensors"
     #"https://huggingface.co/hr16/ControlNet-HandRefiner-pruned/resolve/main/control_sd15_inpaint_depth_hand_fp16.safetensors"
+    #"https://civitai.com/api/download/models/469517?type=Model&format=SafeTensor"
 )
 
 CLIP_MODELS=(
