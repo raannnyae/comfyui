@@ -37,8 +37,7 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    "https://civitai.com/api/download/models/978995?type=Model&format=SafeTensor"
-    "https://civitai.com/api/download/models/962357?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/920368?type=Model&format=SafeTensor&size=full&fp=fp16"
 
 )
 
