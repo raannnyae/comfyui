@@ -47,7 +47,7 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
-    https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor
+    "https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
     
 )
 
