@@ -95,6 +95,7 @@ CONTROLNET_MODELS=(
 
 CLIP_MODELS=(
     #"https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors"
+    "https://huggingface.co/comfyanonymous/flux_text_encoders/resolve/main/t5xxl_fp16.safetensors"
 )
 
 IPADAPTER_MODELS=(
