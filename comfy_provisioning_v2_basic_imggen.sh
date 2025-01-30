@@ -38,9 +38,7 @@ CHECKPOINT_MODELS=(
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.safetensors"
-    
- 
-
+     
 )
 
 UNET_MODELS=(
@@ -53,18 +51,21 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/99396?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/7555?type=Model&format=PickleTensor&size=full&fp=fp16"
+    
 )
 
 VAE_MODELS=(
     "https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
+    
 )
 
 ESRGAN_MODELS=(
     #"https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x4.pth"
     #"https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
     #"https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
+    
 )
 
 CONTROLNET_MODELS=(
@@ -93,6 +94,7 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/wangfuyun/AnimateLCM/resolve/ade023806569460d84d5b77cfc2706c4206ca2b5/sd15_lora_beta.safetensors"
     #"https://huggingface.co/hr16/ControlNet-HandRefiner-pruned/resolve/main/control_sd15_inpaint_depth_hand_fp16.safetensors"
     #"https://civitai.com/api/download/models/469517?type=Model&format=SafeTensor"
+    
 )
 
 CLIP_MODELS=(
